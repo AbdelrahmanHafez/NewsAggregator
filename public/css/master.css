@@ -1,0 +1,11 @@
+.navbar-default,  .navbar-collapse, .navbar-default .navbar-form {
+	background: url('../images/header-head-bg.png')
+}
+.navbar-default .navbar-nav>li>a, .navbar>.container-fluid .navbar-brand, .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover {
+	color:white;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>li>a:hover {
+	background: url('../images/header-head-bg.png');
+	border-bottom:5px white solid;
+	box-sizing:border-box;
+}
